@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+output/videos/*
+!output/videos/.gitkeep
+data/ads/*.json
+data/scripts/*.json
+data/proprietary/*
+!data/proprietary/.gitkeep
+.pytest_cache/
+*.egg-info/

@@ -1,0 +1,85 @@
+{
+  "variant": "proof_data",
+  "icp": "self-directed retail swing trader with a full-time job",
+  "pain_point": "Information asymmetry and time poverty — retail traders compete against institutions with billion-dollar data budgets while juggling a 9-to-5, resulting in 96% failing to make a livable income",
+  "visual_hook": "Split-screen whip-pan: LEFT — hedge fund trading floor, wall of Bloomberg terminals, quants sprinting past server racks. RIGHT — retail trader at kitchen table in hoodie, single laptop, coffee going cold. Center frame slams together with a digital glitch transition revealing a bold counter: '4%'.",
+  "scenes": [
+    {
+      "order": 1,
+      "duration_sec": 3.0,
+      "visual": "Split-screen whip-pan: LEFT — hedge fund floor, Bloomberg terminals glowing, quants sprinting past server racks. RIGHT — retail trader at kitchen table in hoodie, single laptop, coffee going cold. Center frame slams together with digital glitch transition revealing bold counter: '4%'.",
+      "voiceover": "Four percent.",
+      "on_screen_text": "4% make a livable income",
+      "sfx_or_music_note": "Sharp synth hit on glitch transition, then low tension drone"
+    },
+    {
+      "order": 2,
+      "duration_sec": 7.0,
+      "visual": "Extreme close-up on the counter: '4%' pulses, then morphs to '96% fail'. Camera pulls back through the kitchen window — morning commute traffic blurs past, clock on wall ticks 6:47 AM. Trader's phone buzzes: missed alert.",
+      "voiceover": "Ninety-six percent of retail traders never make a livable income. Not because they're lazy — because they're outgunned and out of time.",
+      "on_screen_text": "96% fail • Outgunned • Out of time",
+      "sfx_or_music_note": "Ticking clock layered under drone, phone buzz vibration"
+    },
+    {
+      "order": 3,
+      "duration_sec": 7.0,
+      "visual": "Cinematic data visualization: fiber-optic cables pulsing light across a globe map — New York, London, Singapore. Cut to: hedge fund server room, rows of blades processing 10M+ data points/sec. Overlay text: '$BILLIONS spent on speed & alternative data'.",
+      "voiceover": "Hedge funds spend billions on alternative data, microwave towers, and teams of PhDs. You get... a free screener and Reddit.",
+      "on_screen_text": "Institutions: $BILLIONS on data • Retail: Free screeners",
+      "sfx_or_music_note": "Data pulse SFX — rapid high-frequency clicks matching light pulses"
+    },
+    {
+      "order": 4,
+      "duration_sec": 7.0,
+      "visual": "POV shot: trader in office cubicle, spreadsheet minimized, sneaking glances at phone. Split screen: candlestick pattern forms on chart — missed entry. Text appears: 'Information asymmetry costs retail traders billions annually.'",
+      "voiceover": "Research confirms it: information asymmetry costs retail traders billions every year. You're trading blind while the pros see the whole board.",
+      "on_screen_text": "Information asymmetry = billions lost/year",
+      "sfx_or_music_note": "Office ambient — keyboard clatter, distant chatter — then sudden silence on 'blind'"
+    },
+    {
+      "order": 5,
+      "duration_sec": 7.0,
+      "visual": "Phone screen fills frame: CrowdWisdomTrading app opens — clean dashboard, 'Institutional Flow' signal, 'Smart Money Watchlist', 'Odds-Weighted Setups'. Thumb taps 'Today's Edge' — expands to annotated chart with entry/stop/target. Background: commuter train blurs past window.",
+      "voiceover": "CrowdWisdomTrading levels the field. Proprietary institutional flow signals, smart-money watchlists, and odds-weighted setups — delivered daily, built for the 9-to-5 trader.",
+      "on_screen_text": "Institutional Flow • Smart Money Watchlists • Odds-Weighted Setups",
+      "sfx_or_music_note": "Clean UI tap sounds, resolved major chord — tension releases"
+    },
+    {
+      "order": 6,
+      "duration_sec": 7.0,
+      "visual": "Full-screen: crowdwisdomtrading.com — clean, no clutter. Finger taps 'Get Free Daily Edge'. Cut to: trader closing laptop at 4 PM, walking out of office into golden hour light. Final frame: logo + 'Join the 4%.'",
+      "voiceover": "Free daily edge. No credit card. No noise. Join the 4% at crowdwisdomtrading.com.",
+      "on_screen_text": "crowdwisdomtrading.com • Free Daily Edge • Join the 4%",
+      "sfx_or_music_note": "Warm resolved chord, subtle city ambience fade out"
+    }
+  ],
+  "cta": "Get your free daily edge at crowdwisdomtrading.com — join the 4%",
+  "voiceover_full": "Four percent. Ninety-six percent of retail traders never make a livable income. Not because they're lazy — because they're outgunned and out of time. Hedge funds spend billions on alternative data, microwave towers, and teams of PhDs. You get... a free screener and Reddit. Research confirms it: information asymmetry costs retail traders billions every year. You're trading blind while the pros see the whole board. CrowdWisdomTrading levels the field. Proprietary institutional flow signals, smart-money watchlists, and odds-weighted setups — delivered daily, built for the 9-to-5 trader. Free daily edge. No credit card. No noise. Join the 4% at crowdwisdomtrading.com.",
+  "est_duration_sec": 38.0,
+  "source_ad_concepts": [
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Traders feel isolated and unsure which strategies/ideas to trust without a proven, experienced guide"
+  ],
+  "research_refs": [
+    "https://www.daytrading.com/professional-traders-vs-retail",
+    "https://www.youtube.com/watch?v=6xbn-hiBrPQ",
+    "https://www.schwab.com/learn/story/3-smart-skills-informed-trading",
+    "https://www.tradingsim.com/blog/swing-trading-strategies",
+    "https://www.tradersmagazine.com/news/fx-trading-barriers-to-success",
+    "https://tradethatswing.com/how-to-trade-part-time-efficiently-productively",
+    "https://medium.com/the-ascent/i-took-a-couple-years-off-of-work-to-swing-trade-heres-what-happened-fbaa53087f3",
+    "https://www.aboutschwab.com/mss/story/three-myths-about-retail-traders",
+    "https://www.republicworld.com/tech/information-asymmetry-costing-retail-traders-billions-engineer-working-to-close-it-2026-09-04-136295",
+    "https://completetradersedge.com/kristjan-kullamagi-qullamaggie/",
+    "https://thebigberbowski.substack.com/p/retail-investor-interview-kaizeninvestor",
+    "https://pagegoo.com/2026/08/how-i-became-a-verified-7-figure-short-selling-day-trader/",
+    "https://tradesmith.com/tradesmith-daily/wall-street-spies-on-your-trades-legally-now-you-can-spy-on-theirs/",
+    "https://retailtradersrepository.substack.com/p/weekly-update-1",
+    "https://investinglive.com/education/the-information-gap-what-retail-traders-don-t-see-and-why-that-might-be-okay/",
+    "https://www.the1news.com/article/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-technology-news"
+  ],
+  "proprietary_data_used": []
+}

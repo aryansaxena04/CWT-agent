@@ -1,0 +1,101 @@
+{
+  "variant": "transformation",
+  "icp": "self-directed retail swing trader with a full-time job",
+  "pain_point": "Information asymmetry and time poverty — working professionals trade on fragmented, late, or noisy signals while institutions operate with structured research and defined risk, leaving retail traders stuck in a cycle of FOMO entries, missed exits, and emotional burnout",
+  "visual_hook": "Split-screen smash cut: LEFT — 6:00 AM, dim home office, alarm screaming, trader (30s, wrinkled shirt) knocks over cold coffee onto a keyboard littered with three monitors showing conflicting indicators (RSI, MACD, volume bars all screaming different directions), phone buzzing with Discord 'pump' alerts, eyes bloodshot, hand trembling on mouse. RIGHT — Same desk, same trader, same 6:00 AM: single clean monitor, printed pre-market plan beside a steaming coffee, calm exhale, finger executes a limit order at a precise level, stop-loss and target pre-set, pushes chair back — done in 15 seconds. Whip pan between the two worlds in 2.5 seconds.",
+  "scenes": [
+    {
+      "order": 1,
+      "duration_sec": 7.0,
+      "visual": "PRE-DAWN CHAOS. Handheld camera, shallow depth of field. 5:58 AM through window. Trader stumbles in, squints at three monitors. Close-up: monitor 1 shows a red 15-min candle piercing VWAP; monitor 2 shows RSI 72 (overbought); monitor 3 shows a Telegram notification: '🚀 BUY NOW OR STAY POOR.' Trader's thumb hovers, hesitates, chases entry at market. Wide: coffee spills. He wipes it with his sleeve, misses the fill, price reverses instantly. Red P&L flashes -$420.",
+      "voiceover": "Five fifty-eight AM. Three monitors. Zero plan. You're not trading — you're gambling with rent money.",
+      "on_screen_text": "BEFORE: 5:58 AM • 3 MONITORS • 0 PLAN",
+      "sfx_or_music_note": "Low, dissonant synth drone. Alarm clock blare. Coffee spill splat. Price tick sounds accelerating."
+    },
+    {
+      "order": 2,
+      "duration_sec": 6.0,
+      "visual": "LUNCH BREAK BATHROOM STALL. Fluorescent hum. Trader perched on closed toilet lid, phone inches from face, sweating. Screen: red -$1,200 intraday. He's averaging down a moving average crossover that failed. Thumb types 'HODL' in a group chat. Someone replies 'paper hands.' He slams phone against thigh. Muffled coworker laughter outside the door. He flushes without using the toilet — just to mask the sound.",
+      "voiceover": "Lunch break. Bathroom stall. Averaging down a loser because a stranger on Discord said 'diamond hands.'",
+      "on_screen_text": "BEFORE: 12:17 PM • -$1,200 • EMOTIONAL SPIRAL",
+      "sfx_or_music_note": "Bathroom fan drone. Muffled office chatter. Heartbeat thump in sync with red ticks."
+    },
+    {
+      "order": 3,
+      "duration_sec": 6.0,
+      "visual": "LATE NIGHT RECKONING. 10:43 PM. Dark room lit only by screens. Trader scrolls through the day's trades: 7 entries, 2 winners, 5 losers, max drawdown -3.2%. Journal notebook blank. He rubs face, opens YouTube: 'How to swing trade for beginners 2026.' Autoplay: '90% of traders fail.' He stares at reflection in dark monitor — hollow eyes. Phone lights up: a different notification. Clean. Professional. No emojis.",
+      "voiceover": "Ten forty-three PM. Blank journal. Seven trades. Two winners. The algorithm doesn't care about your effort.",
+      "on_screen_text": "BEFORE: 10:43 PM • 7 TRADES • 2 WINNERS • EMPTY JOURNAL",
+      "sfx_or_music_note": "Drone resolves to a single piano note. Keyboard clicks. YouTube audio faint. Then — a clean *ding* notification sound. Sharp. Different."
+    },
+    {
+      "order": 4,
+      "duration_sec": 5.0,
+      "visual": "THE SHIFT. Extreme close-up: thumb taps notification. Screen expands: CrowdWisdomTrading alert card — 'PRE-MARKET BIAS: LONG XYZ • KEY LEVEL $47.20 • RISK $0.80 • TARGET $49.50 • CATALYST: EARNINGS MOMENTUM + INSTITUTIONAL FLOW.' Trader's pupil dilates. Shoulders drop. Exhale. Camera pulls back: he prints the card. Places it beside monitor. Deletes two of three chart layouts. Keeps only price action + volume.",
+      "voiceover": "One alert. Defined risk. Defined target. Institutional flow — not influencer noise. This is what the 4% see.",
+      "on_screen_text": "THE SHIFT: DEFINED RISK • INSTITUTIONAL FLOW • NO GUESSWORK",
+      "sfx_or_music_note": "Piano note blooms into warm, steady ambient pad. Paper print *thwip*. Mouse clicks — deliberate, slow."
+    },
+    {
+      "order": 5,
+      "duration_sec": 7.0,
+      "visual": "AFTER — MORNING EXECUTION. 6:00 AM. Same desk. Single monitor. Clean chart: XYZ gapping up, pulling back to $47.20 exactly. Limit buy resting. Trader sips coffee, reads Wall Street Journal. 9:31 AM: fill confirmation. Stop-loss $46.40. Target $49.50. He closes laptop. Walks to window. Sunrise. Checks watch: 9:32 AM. Day job starts in 28 minutes. He's already done.",
+      "voiceover": "Six AM. One setup. Filled at your price. Stop protecting you. Target rewarding you. Back to your life by 9:32.",
+      "on_screen_text": "AFTER: 6:00 AM • 1 SETUP • FILLED • DONE BY 9:32",
+      "sfx_or_music_note": "Warm pad continues. Birds chirp outside. Coffee sip. Laptop *thunk* close. Calm breath."
+    },
+    {
+      "order": 6,
+      "duration_sec": 5.0,
+      "visual": "LUNCH BREAK — RECLAIMED. Bright cafeteria. Trader laughs with colleagues, eating actual salad. Phone face-down on table. Buzz. He glances: green +$230. Swipes away. Returns to conversation. Coworker: 'You actually relaxed?' He grins: 'Plan worked. Now I eat.'",
+      "voiceover": "Lunch is for eating. Not sweating a screen. The trade manages itself — because you managed the risk before entry.",
+      "on_screen_text": "AFTER: 12:15 PM • +$230 • LUNCH ACTUALLY EATEN",
+      "sfx_or_music_note": "Office ambience. Clink of fork. Notification *ping* — pleasant, major key. Laughter."
+    },
+    {
+      "order": 7,
+      "duration_sec": 6.0,
+      "visual": "EVENING REVIEW. 8:00 PM. Kitchen table. Journal open: four entries this week — three green, one small red (stopped at -0.8% per trade). Equity curve: steady stair-step. Trader high-fives kid running past. Partner pecks his cheek. He closes journal. Laptop stays shut. TV on: movie night. Text on screen fades in: 'Information asymmetry closed. Time reclaimed.'",
+      "voiceover": "Three for four. Risk controlled. Journal full. Life lived. This isn't luck — it's access. The same flow the institutions use. Now yours.",
+      "on_screen_text": "AFTER: 8:00 PM • 3/4 WINNERS • RISK CONTROLLED • LIFE LIVED",
+      "sfx_or_music_note": "Pad swells warm. Movie theme starts. Kid's footsteps. Kiss sound. Perfect resolution chord."
+    },
+    {
+      "order": 8,
+      "duration_sec": 3.0,
+      "visual": "CrowdWisdomTrading logo animates in — clean typography, subtle data-stream particles. URL types out letter by letter: crowdwisdomtrading.com. Tagline fades under: 'Institutional-grade flow. Retail-friendly time.'",
+      "voiceover": "CrowdWisdomTrading.com. Get the pre-market bias the pros use. Free daily. You bring the discipline. We bring the edge.",
+      "on_screen_text": "crowdwisdomtrading.com • FREE DAILY BIAS • INSTITUTIONAL FLOW",
+      "sfx_or_music_note": "Logo *whoosh*. Typewriter keys for URL. Final chord holds — confident, open."
+    }
+  ],
+  "cta": "Go to crowdwisdomtrading.com and claim your free daily pre-market bias — institutional flow, defined risk, zero noise.",
+  "voiceover_full": "Five fifty-eight AM. Three monitors. Zero plan. You're not trading — you're gambling with rent money. Lunch break. Bathroom stall. Averaging down a loser because a stranger on Discord said 'diamond hands.' Ten forty-three PM. Blank journal. Seven trades. Two winners. The algorithm doesn't care about your effort. One alert. Defined risk. Defined target. Institutional flow — not influencer noise. This is what the 4% see. Six AM. One setup. Filled at your price. Stop protecting you. Target rewarding you. Back to your life by 9:32. Lunch is for eating. Not sweating a screen. The trade manages itself — because you managed the risk before entry. Three for four. Risk controlled. Journal full. Life lived. This isn't luck — it's access. The same flow the institutions use. Now yours. CrowdWisdomTrading.com. Get the pre-market bias the pros use. Free daily. You bring the discipline. We bring the edge.",
+  "est_duration_sec": 45.0,
+  "source_ad_concepts": [
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Traders feel isolated and unsure which strategies/ideas to trust without a proven, experienced guide"
+  ],
+  "research_refs": [
+    "https://www.daytrading.com/professional-traders-vs-retail",
+    "https://www.youtube.com/watch?v=6xbn-hiBrPQ",
+    "https://www.schwab.com/learn/story/3-smart-skills-informed-trading",
+    "https://www.tradingsim.com/blog/swing-trading-strategies",
+    "https://www.tradersmagazine.com/news/fx-trading-barriers-to-success",
+    "https://tradethatswing.com/how-to-trade-part-time-efficiently-productively",
+    "https://medium.com/the-ascent/i-took-a-couple-years-off-of-work-to-swing-trade-heres-what-happened-fbaa53087f3",
+    "https://www.aboutschwab.com/mss/story/three-myths-about-retail-traders",
+    "https://www.republicworld.com/tech/information-asymmetry-costing-retail-traders-billions-engineer-working-to-close-it-2026-09-04-136295",
+    "https://completetradersedge.com/kristjan-kullamagi-qullamaggie/",
+    "https://thebigberbowski.substack.com/p/retail-investor-interview-kaizeninvestor",
+    "https://pagegoo.com/2026/08/how-i-became-a-verified-7-figure-short-selling-day-trader/",
+    "https://tradesmith.com/tradesmith-daily/wall-street-spies-on-your-trades-legally-now-you-can-spy-on-theirs/",
+    "https://retailtradersrepository.substack.com/p/weekly-update-1",
+    "https://investinglive.com/education/the-information-gap-what-retail-traders-don-t-see-and-why-that-might-be-okay/",
+    "https://www.the1news.com/article/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-technology-news"
+  ],
+  "proprietary_data_used": []
+}

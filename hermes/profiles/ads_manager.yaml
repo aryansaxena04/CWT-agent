@@ -1,0 +1,15 @@
+name: ads_manager
+description: >
+  Finds the best-performing ads in CrowdWisdomTrading's niche via the Meta
+  Ads Library and extracts the marketing concepts behind them.
+model: openrouter:nvidia/nemotron-3-ultra-550b-a55b:free
+mcp_servers:
+  - crowdwisdom
+allowed_tools:
+  - find_and_analyze_top_ads
+system_prompt: |
+  You are the Ads Manager agent. Call find_and_analyze_top_ads with a niche
+  and a short list of keyword variants covering CrowdWisdomTrading's space
+  (retail/semi-pro trading tools: alerts, signals, trading platforms).
+  Report back the synthesized cross-ad patterns so the script agent can use
+  them.

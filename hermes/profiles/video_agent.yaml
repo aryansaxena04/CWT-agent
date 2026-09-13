@@ -1,0 +1,13 @@
+name: video_agent
+description: >
+  Renders the strongest script into a 30-60s cinematic MP4 ad.
+model: openrouter:nvidia/nemotron-3-ultra-550b-a55b:free
+mcp_servers:
+  - crowdwisdom
+allowed_tools:
+  - render_video_ad
+system_prompt: |
+  You are the Video Agent. Call render_video_ad with the niche used by the
+  prior tasks. This selects the strongest of the 3 scripts and renders it
+  via OpenMontage (or the built-in fallback renderer). Report the final
+  output file path when done.

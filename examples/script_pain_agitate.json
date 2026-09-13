@@ -1,0 +1,93 @@
+{
+  "variant": "pain_agitate",
+  "icp": "self-directed retail swing trader with a full-time job",
+  "pain_point": "Feeling locked out of insider-level market knowledge and isolated without a proven guide, leading to missed opportunities and costly guesswork",
+  "visual_hook": "Extreme close‑up of a bleary‑eyed trader at 6:30 AM, steam rising from a coffee mug, laptop charts flickering, phone buzzing with red loss alerts — all in a single, handheld‑camera push‑in that fills the frame in under 3 seconds.",
+  "scenes": [
+    {
+      "order": 1,
+      "duration_sec": 5.0,
+      "visual": "Handheld push‑in on the trader’s face, then rack focus to the glowing laptop screen showing a cascading red candle; a smartwatch vibrates with a loss notification.",
+      "voiceover": "You wake up before the market opens, coffee in hand, but the only thing rising is your stress.",
+      "on_screen_text": "6:30 AM — The daily grind",
+      "sfx_or_music_note": "Low‑hum ambient tension, subtle heartbeat thump"
+    },
+    {
+      "order": 2,
+      "duration_sec": 6.0,
+      "visual": "Split‑screen: left side a high‑frequency trading floor with walls of Bloomberg terminals; right side the solitary trader at a kitchen table, same charts but no team, no flow.",
+      "voiceover": "While hedge funds swim in real‑time order flow, you’re guessing on delayed public data.",
+      "on_screen_text": "Information asymmetry costs retail traders billions",
+      "sfx_or_music_note": "Sharp electronic pulses on the left, quiet room tone on the right"
+    },
+    {
+      "order": 3,
+      "duration_sec": 6.0,
+      "visual": "Trader slumps, rubs eyes; a red “‑$1,240” P&L flash pops on screen, accompanied by a cash‑register ‘loss’ sound. Cut to a calendar showing missed swing setups.",
+      "voiceover": "Another day, another avoidable loss — because you didn’t know the setups the pros saw.",
+      "on_screen_text": "Missed entries = missed income",
+      "sfx_or_music_note": "Dissonant sting, then silence"
+    },
+    {
+      "order": 4,
+      "duration_sec": 7.0,
+      "visual": "Fast cut to CrowdWisdomTrading logo animating onto a clean dashboard: “Daily Insider Watchlist”, “Community of 347,500+ Traders”, “Free Daily Alerts”. Phone screen shows a push notification: “New insight delivered.”",
+      "voiceover": "What if the same watchlist that powers a $12M profit brain trust landed in your inbox every morning — for free?",
+      "on_screen_text": "Free daily insights • 347,500+ traders • $12M brain trust",
+      "sfx_or_music_note": "Rising synth pad, hopeful chord progression"
+    },
+    {
+      "order": 5,
+      "duration_sec": 6.0,
+      "visual": "Trader opens email, reads “Top 3 Swing Setups for Today”, charts animate with entry/exit zones highlighted. Finger taps “Execute” on broker app; green confirmation appears.",
+      "voiceover": "You get three vetted setups, exact entries, and risk parameters — all before your 9‑am meeting.",
+      "on_screen_text": "3 setups • Exact entries • Defined risk",
+      "sfx_or_music_note": "Crisp click, subtle cash‑register ‘win’ chime"
+    },
+    {
+      "order": 6,
+      "duration_sec": 5.0,
+      "visual": "Montage: trader closes laptop, walks into a sunlit kitchen where family waits for dinner; checks phone — portfolio up 2.3% on the day. Smiles, puts phone down.",
+      "voiceover": "Trade confidently, keep your job, and still make it home for dinner.",
+      "on_screen_text": "Part‑time trader, full‑time life",
+      "sfx_or_music_note": "Warm acoustic resolve, gentle exhale"
+    },
+    {
+      "order": 7,
+      "duration_sec": 5.0,
+      "visual": "Full‑screen CTA: “Join free at crowdwisdomtrading.com” with animated arrow button; logo pulses, background shows faint chart grid.",
+      "voiceover": "Tap the link. Join 347,500+ traders getting the edge — free. crowdwisdomtrading.com.",
+      "on_screen_text": "crowdwisdomtrading.com  •  Free daily alerts",
+      "sfx_or_music_note": "Final resolved chord, subtle click on button"
+    }
+  ],
+  "cta": "Join free at crowdwisdomtrading.com",
+  "voiceover_full": "You wake up before the market opens, coffee in hand, but the only thing rising is your stress. While hedge funds swim in real‑time order flow, you’re guessing on delayed public data. Another day, another avoidable loss — because you didn’t know the setups the pros saw. What if the same watchlist that powers a $12M profit brain trust landed in your inbox every morning — for free? You get three vetted setups, exact entries, and risk parameters — all before your 9‑am meeting. Trade confidently, keep your job, and still make it home for dinner. Tap the link. Join 347,500+ traders getting the edge — free. crowdwisdomtrading.com.",
+  "est_duration_sec": 40.0,
+  "source_ad_concepts": [
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Retail traders lack access to insider-level market knowledge and feel locked out of the 'winning circle' of successful traders",
+    "Traders feel isolated and unsure which strategies/ideas to trust without a proven, experienced guide"
+  ],
+  "research_refs": [
+    "https://www.daytrading.com/professional-traders-vs-retail",
+    "https://www.youtube.com/watch?v=6xbn-hiBrPQ",
+    "https://www.schwab.com/learn/story/3-smart-skills-informed-trading",
+    "https://www.tradingsim.com/blog/swing-trading-strategies",
+    "https://www.tradersmagazine.com/news/fx-trading-barriers-to-success",
+    "https://tradethatswing.com/how-to-trade-part-time-efficiently-productively",
+    "https://medium.com/the-ascent/i-took-a-couple-years-off-of-work-to-swing-trade-heres-what-happened-fbaa53087f3",
+    "https://www.aboutschwab.com/mss/story/three-myths-about-retail-traders",
+    "https://www.republicworld.com/tech/information-asymmetry-costing-retail-traders-billions-engineer-working-to-close-it-2026-09-04-136295",
+    "https://completetradersedge.com/kristjan-kullamagi-qullamaggie/",
+    "https://thebigberbowski.substack.com/p/retail-investor-interview-kaizeninvestor",
+    "https://pagegoo.com/2026/08/how-i-became-a-verified-7-figure-short-selling-day-trader/",
+    "https://tradesmith.com/tradesmith-daily/wall-street-spies-on-your-trades-legally-now-you-can-spy-on-theirs/",
+    "https://retailtradersrepository.substack.com/p/weekly-update-1",
+    "https://investinglive.com/education/the-information-gap-what-retail-traders-don-t-see-and-why-that-might-be-okay/",
+    "https://www.the1news.com/article/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-technology-news"
+  ],
+  "proprietary_data_used": []
+}

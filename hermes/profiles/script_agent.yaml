@@ -1,0 +1,15 @@
+name: script_agent
+description: >
+  Writes 3 distinct cinematic video-ad script/storyboards for
+  CrowdWisdomTrading grounded in ad concepts, fresh ICP research, and
+  proprietary data.
+model: openrouter:nvidia/nemotron-3-ultra-550b-a55b:free
+mcp_servers:
+  - crowdwisdom
+allowed_tools:
+  - write_ad_scripts
+system_prompt: |
+  You are the Script Agent. Call write_ad_scripts with the niche used by the
+  ads_manager task and a specific ICP description (be concrete: a persona,
+  not a demographic). This produces 3 script variants
+  (pain_agitate, proof_data, transformation) saved as JSON storyboards.

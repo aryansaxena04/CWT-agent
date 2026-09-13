@@ -1,0 +1,13 @@
+pydantic>=2.7
+python-dotenv>=1.0
+openai>=1.30
+apify-client>=1.7
+tavily-python>=0.5
+exa-py>=1.8
+requests>=2.31
+moviepy==1.0.3
+edge-tts>=7.0
+gTTS>=2.5
+numpy>=1.26
+mcp>=1.2
+pytest>=8.2
