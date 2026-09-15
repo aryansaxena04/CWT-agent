@@ -46,7 +46,7 @@ class Settings:
         if missing:
             raise RuntimeError(
                 f"Missing required environment variable(s): {', '.join(missing)}. "
-                f"Copy .env.example to .env and fill them in."
+                f"Add them to a .env file in the project root (see README > Setup)."
             )
 
 

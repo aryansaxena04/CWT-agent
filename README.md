@@ -57,10 +57,22 @@ A real run of the pipeline (niche: "stock trading alerts") is checked in under
 python -m venv .venv
 .venv/Scripts/activate        # .venv/bin/activate on macOS/Linux
 pip install -r requirements.txt
-cp .env.example .env          # fill in the keys below
 ```
 
-Required keys (all have free tiers):
+Create a `.env` file in the project root with these keys (all have free tiers):
+
+```bash
+OPENROUTER_API_KEY=
+APIFY_API_TOKEN=
+TAVILY_API_KEY=
+EXA_API_KEY=
+PEXELS_API_KEY=
+```
+
+Everything else (LLM model, Apify actor, voice) has a working default in
+`src/config.py` and can be overridden from `.env` too.
+
+Where to get each key:
 
 | Key | Where to get it |
 |---|---|
